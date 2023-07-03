@@ -1,8 +1,9 @@
 # Enterprise-WeChat-GPTbot
-基于企业微信外部群的微信机器人
+基于企业微信外部群的微信机器人，支持FASTgpt
 # 企业微信机器人使用教程：
-1.打开项目下载企业微信4.0.8.6027版本 安装
-企业微信下载地址链接：https://drive.weixin.qq.com/s?k=ANMA2gc2ACsoZEtRCD
+1.打开项目下载企业微信4.0.8.6027版本 下载：https://drive.weixin.qq.com/s?k=ANMA2gc2ACsnv5RDlh
+企微bot下载地址链接：https://drive.weixin.qq.com/s?k=ANMA2gc2ACsk2bgjdt
+
 2.配置，
 打开https://aiwis.cn/网站，点击创建ai
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
