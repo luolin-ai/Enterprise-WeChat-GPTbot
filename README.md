@@ -8,8 +8,9 @@
 进入网站点击新建应用，点击生成key
 ![微信截图_20230703101749](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2d4fbf96-879d-4c71-aae8-04e152616829)
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
+![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/a3987928-8271-4fd2-8b5f-c7af94360ecc)
 
-##交流群
+# 交流群
 ![微信图片_20230627154622](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/3595076e-c145-4836-bec1-ededc9933e80)
 
 
