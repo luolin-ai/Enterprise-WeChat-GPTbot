@@ -1,10 +1,18 @@
 # Enterprise-WeChat-GPTbot
-基于企业微信外部群的微信机器人，即将上线,将支持在企业微信发送企业文件、ppt等，需要自行上传到自己的服务器进行
+基于企业微信外部群的微信机器人
+# 企业微信机器人使用教程：
+1.打开项目下载企业微信4.0.8.6027版本 安装
+2.配置，
+打开https://aiwis.cn/网站，点击创建ai
+![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
+进入网站点击新建应用，点击生成key
+![微信截图_20230703101749](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2d4fbf96-879d-4c71-aae8-04e152616829)
+![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/bb9e7f3c-0e91-4cd2-ab2f-13d35a92b3e3)
+
 ##交流群
 ![微信图片_20230627154622](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/3595076e-c145-4836-bec1-ededc9933e80)
 
 
-群公告
 大家好！我非常高兴地告诉大家，我已经成功完成了我的代码项目！通过不懈的努力和团队合作，我们成功实现了一个更智能的企业微信聊天机器人。
 
 在这个过程中，我意识到为了进一步改进项目并提供更好的用户体验，我们需要一些资金支持。因此，我希望能够向大家征求赞助。这些资金将用于购买必要的资源、改进代码和增加功能，以确保我们能够提供最好的服务。
