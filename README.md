@@ -16,7 +16,7 @@
 回复消息: 当机器人收到消息时，它会想出一个回复，然后发送给发消息的人。
 保持警觉: 机器人会一直保持开启状态，随时准备接收和回复消息，除非你告诉它停止。
 ### 功能介绍：
-```bash
+
 [API]
 api_key：这是您用来访问某些在线服务的密钥。例如，如果您的机器人使用在线AI服务来生成回复，您需要将其API密钥填写在这里。
 app_id：如果API服务要求一个应用ID，可以在此填写。
@@ -31,9 +31,9 @@ interactions_limit：设置机器人在群聊中每个对话的回复次数限�
 trigger_word：设置触发词，当群聊消息中包含此词时，机器人才会回复。
 [Conversation]
 use_common_conversation：设置是否在不同的对话中使用共同的对话历史。True 表示共享历史，False 表示每个对话有其独立的历史。
-```bash
 
-#
+
+# 开始
 2.配置，
 打开https://aiwis.cn/网站，点击创建ai
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/49b7e76a-2908-4431-a9e1-26ceb1702ebb)
