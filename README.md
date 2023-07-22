@@ -55,7 +55,7 @@ use_common_conversation：设置是否在不同的对话中使用共同的对话
 ![image](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/a3987928-8271-4fd2-8b5f-c7af94360ecc)
 
 # 交流群
-![微信43图片_20230714013957](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/d6da1d5c-88da-43c8-88c0-2071eec122ec)
+![微信图片_20230722172539](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/d64fbae5-5b41-4ea5-aeea-4d5b8c72b341)
 
 
 大家好！我非常高兴地告诉大家，我已经成功完成了我的代码项目！通过不懈的努力和团队合作，我们成功实现了一个更智能的企业微信聊天机器人。
