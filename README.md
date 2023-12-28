@@ -1,6 +1,37 @@
 # Enterprise-WeChat-GPTbot
 基于12月5日企微发布最新企业微信发布的的4.1.13.6002版本外部群的微信机器人支持语音功能私聊，支持FASTgpt
 
+
+### 🌟 近期更新亮点：
+2023/12/28 -新增mac方式登录，正常走pc扫码登录手机端显示mac登录，大幅降低风险
+![img.png](img.png)
+### 🌟 更新亮点：
+*
+* 智能回复优化：我们改进了AI算法，现在机器人能更准确地理解并回应您的问题。
+* 增强的白名单功能：现在您可以更灵活地设置群聊和私聊的白名单，确保重要的交流不受限制。
+* 聊天记录功能：我们新增了自动记录聊天内容到文件的功能，方便您随时查阅历史信息。
+* 用户界面改进：为了更好的用户体验，我们对机器人的界面进行了一些微调。
+* 性能提升：我们优化了代码，提高了机器人的响应速度和稳定性。
+1.支持私聊语音功能 结合知识库定制专属领域企业微信语音数字分身 后期将会实现基于真人声音实时对话功能
+2.新版支持语音功能的是main-speech.exe这个文件
+3.重文本回复的是main.exe
+
+重要的事情说三遍，
+运行脚本请退出梯子
+运行脚本请退出梯子
+运行脚本请退出梯子
+
+### 语音功能需要设置环境变量
+1. 1.打开电脑设置-----2.找到系统信息----3.系统信息中的高级设置 -----3.打开变量找到Path
+2. 将项目的ffmpeg文件永远保留 这是语音的关键
+3. 将这个路径添加进去 I:XX\XX\Enterprise-WeChat-GPTbot\ffmpeg\bin
+5. 注意如果的其他盘请把文件盘符放到对应路径中
+<div style="display: flex; justify-content: space-around;">
+    <img src="png/20231223065043.png" alt="Image 1 Description" style="width: 30%;" />
+    <img src="png/img.png" alt="Image 2 Description" style="width: 30%;" />
+    <img src="png/1703285345704.png" alt="Image 3 Description" style="width: 30%;" />
+</div>
+
 # 🎥 新视频发布：情感与商业的融合 （详细视频教程）🎥
 
 [![情感与商业的融合](https://img.youtube.com/vi/5lk6WLmUk7Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lk6WLmUk7Y)
@@ -20,38 +51,6 @@
 
 ## 🚀 立即观看
 别错过这一集精彩内容！点击下方链接，加入我们的旅程，探索科技如何在情感和商业领域创造奇迹。➡️ [观看视频](https://www.youtube.com/watch?v=5lk6WLmUk7Y)
-
-
-### 🌟 近期更新亮点：
-1.支持私聊语音功能 结合知识库定制专属领域企业微信语音数字分身 后期将会实现基于真人声音实时对话功能
-2.新版支持语音功能的是main-speech.exe这个文件
-3.重文本回复的是main.exe
-
-### 🌟 更新亮点：
-*
-* 智能回复优化：我们改进了AI算法，现在机器人能更准确地理解并回应您的问题。
-* 增强的白名单功能：现在您可以更灵活地设置群聊和私聊的白名单，确保重要的交流不受限制。
-* 聊天记录功能：我们新增了自动记录聊天内容到文件的功能，方便您随时查阅历史信息。
-* 用户界面改进：为了更好的用户体验，我们对机器人的界面进行了一些微调。
-* 性能提升：我们优化了代码，提高了机器人的响应速度和稳定性。
-
-
-重要的事情说三遍，
-运行脚本请退出梯子
-运行脚本请退出梯子
-运行脚本请退出梯子
-
-### 语音功能需要设置环境变量
-1. 1.打开电脑设置-----2.找到系统信息----3.系统信息中的高级设置 -----3.打开变量找到Path
-2. 将项目的ffmpeg文件永远保留 这是语音的关键
-3. 将这个路径添加进去 I:XX\XX\Enterprise-WeChat-GPTbot\ffmpeg\bin
-5. 注意如果的其他盘请把文件盘符放到对应路径中
-<div style="display: flex; justify-content: space-around;">
-    <img src="png/20231223065043.png" alt="Image 1 Description" style="width: 30%;" />
-    <img src="png/img.png" alt="Image 2 Description" style="width: 30%;" />
-    <img src="png/1703285345704.png" alt="Image 3 Description" style="width: 30%;" />
-</div>
-
 # 企业微信机器人使用教程：
 1.打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe
 
