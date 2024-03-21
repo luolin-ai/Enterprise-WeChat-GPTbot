@@ -134,5 +134,5 @@ AI驱动的交互：利用AI技术（如AIWIS API）自动生成回复，支持�
 ![img_3.png](png/img_3.png)
 
 # 扫码入交流群
-![img_3.png](png/rwm.png)
+![图片_20240322011353](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/f2962bfb-94fb-4e52-8e0d-ee4e99ee131a)
 
