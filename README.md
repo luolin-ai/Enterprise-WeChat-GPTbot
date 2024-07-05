@@ -1,24 +1,24 @@
 # Enterprise-WeChat-GPTbot V1.0.02
 基于12月5日企微发布最新企业微信发布的的4.1.13.6002版本外部群的微信机器人支持语音功能私聊，支持FASTgpt
-兼容企业微信最新版本 4.1.13.6002，特别是针对外部群组的新功能。 打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe
+~~兼容企业微信最新版本 4.1.13.6002，特别是针对外部群组的新功能。 打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe~~
 
 ### 🌟 近期更新亮点：
 
+* 2024/7月6日
+* 新增版本版本为4月24日企微发布的新版本全面适配点击此处下载 https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe
+* 修复原有部分回复消息bug
+
+
 2024/05/08 新增本地私有fastgpt部署环境，可直接在本地进行运行企业微信和fastgpt如企微出现奔溃重新安装 清除缓存
-#添加或更新 USE_LOCAL_API 变量，线上设置为False本地True。
-本地部署fastgpt请配置USE_LOCAL_API本地True
+* 添加或更新 USE_LOCAL_API 变量，线上设置为False本地True。
+* 本地部署fastgpt请配置USE_LOCAL_API本地True
 2024/05/08 新增兼容新版fastapi调用功能
-![img_3.png](img_3.png)
+
 2024/05/08 新增上下数据关联持久化 保持数据库文件误删永久关联上下文管理
 新版语音版出现bug坐等修复
 
 
-2024/02/28 新增pad登录方式大范围降低分概率
-优化回复内容内容格式美观度
-增加修复语音回复的相关bug
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-2023/12/28 -新增mac方式登录，正常走pc扫码登录手机端显示mac登录，大幅降低风险
+
 ![img.png](img.png)
 ### 🌟 更新亮点：
 *
