@@ -141,7 +141,7 @@ TTS_MODEL=tts-1  # 或者 tts-1-hd
 别错过这一集精彩内容！点击下方链接，加入我们的旅程，探索科技如何在情感和商业领域创造奇迹。➡️ [观看视频](https://www.youtube.com/watch?v=5lk6WLmUk7Y)
 
 ## 企业微信机器人使用教程
-1. 打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe
+~~1. 打开项目下载最新企业微信发布的的4.1.13.6002版本 下载：https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.13.6002.exe~~
 
 ## 开始
 2. 配置，
