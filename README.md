@@ -3,8 +3,7 @@
 
 基于企业微信最新发布的 4.1.13.6009 版本，支持外部群的微信机器人语音功能私聊，并支持 FASTgpt。
 - 企微版本，点击此处下载 [WeCom_4.1.22.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
-# 扫码入交流群（备注来源）
-![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
+
 ## 目录
 - [更新日志](#更新日志)
 - [演示图片](#演示图片)
@@ -127,7 +126,8 @@ api地址：http://127.0.0.1:8001/docs#
        <img src="png/img.png" alt="添加路径到环境变量" style="width: 30%;" />
        <img src="png/1703285345704.png" alt="环境变量设置完成" style="width: 30%;" />
    </div>
-
+# 扫码入交流群（备注来源）
+![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
 ## 语音配置教程
 
 ### 1. 获取 AIWIS-KnowAi 语音 API 密钥
