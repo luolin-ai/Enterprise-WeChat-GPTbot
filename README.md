@@ -3,7 +3,8 @@
 
 基于企业微信最新发布的 4.1.13.6009 版本，支持外部群的微信机器人语音功能私聊，并支持 FASTgpt。
 - 企微版本，点击此处下载 [WeCom_4.1.22.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
-
+# 扫码入交流群（备注来源）
+![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
 ## 目录
 - [更新日志](#更新日志)
 - [演示图片](#演示图片)
@@ -153,8 +154,6 @@ AIWIS-KnowAi 提供两种 TTS 模型：
 TTS_MODEL=tts-1  # 或者 tts-1-hd
 ```
 
-# 扫码入交流群（备注来源）
-![图片_20240915152228](https://github.com/user-attachments/assets/15c6b13e-26ac-4b64-8745-575b32c364aa)
 
 # 🎥 新视频发布：情感与商业的融合 （详细视频教程）🎥
 
