@@ -1,5 +1,5 @@
 
-# Enterprise-WeChat-GPTbot V1.0.05
+# Enterprise-WeChat-GPTbot V1.0.06
 
 基于企业微信最新发布的 4.1.13.6009 版本，支持外部群的微信机器人语音功能私聊，并支持 FASTgpt。
 - 企微版本，点击此处下载 [WeCom_4.1.22.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
