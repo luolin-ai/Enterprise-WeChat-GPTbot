@@ -29,8 +29,8 @@ https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.
 - 修复部分 API 无法使用
 - 新增文件发送群组 API，也可私发文件
 - 兼容 [https://nextflow.app/](https://nextflow.app/) 新请求格式，可在 https://nextflow.app/ 中管理企业微信的消息对应用户昵称 ID
-- ![image](https://github.com/user-attachments/assets/563aac26-a9c7-43ca-8ee1-79f095455c68)
-- 修复回复两次问题
+![image](https://github.com/user-attachments/assets/e8c3cac3-7acf-4140-ab94-c4f54e12e88b)
+-- 修复回复两次问题
 
 
 - 优化广告小尾巴格式
