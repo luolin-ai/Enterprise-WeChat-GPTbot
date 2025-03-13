@@ -19,7 +19,7 @@
 ## [V1.0.07-beta.1] - 2025-03-14
 
 # NextFlow-APP V1.0.07-beta.1 更新说明
-https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.1
+更新详情请参考：[更新说明]([https://github.com/luolin-ai/Enterprise-WeChat-GPTbot))  
 ![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
 
 ## 主要更新：
