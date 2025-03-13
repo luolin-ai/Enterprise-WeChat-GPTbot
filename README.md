@@ -1,5 +1,5 @@
 
-# Enterprise-WeChat-GPTbot V1.0.06
+# Enterprise-WeChat-GPTbot- NextFlow-APP V1.0.07-beta.1
 
 基于企业微信最新发布的 4.1.13.6009 版本，支持外部群的微信机器人语音功能私聊，并支持 FASTgpt。
 - 企微版本，点击此处下载 [WeCom_4.1.22.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.22.6009.exe)
@@ -16,6 +16,26 @@
 - [图片识别文件解析功能](#图片识别文件解析功能)
 
 ## 更新日志
+## [V1.0.07-beta.1] - 2025-03-14
+
+# NextFlow-APP V1.0.07-beta.1 更新说明
+https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/releases/edit/1.0.07-beta.1
+![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
+
+## 主要更新：
+- 修复无法发送签名图片
+- 修复返回为空的回复
+- 优化 [http://127.0.0.1:8001/docs](http://127.0.0.1:8001/docs) 文档
+- 修复部分 API 无法使用
+- 新增文件发送群组 API，也可私发文件
+- 兼容 [https://nextflow.app/](https://nextflow.app/) 新请求格式，可在 https://nextflow.app/ 中管理企业微信的消息对应用户昵称 ID
+- ![image](https://github.com/user-attachments/assets/563aac26-a9c7-43ca-8ee1-79f095455c68)
+- 修复回复两次问题
+
+
+- 优化广告小尾巴格式
+
+
 ## [v0.0.06] - 2024-10-30
 
 ### 新增功能
