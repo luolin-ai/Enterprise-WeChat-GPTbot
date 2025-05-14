@@ -14,6 +14,13 @@
 - [功能详细说明](#功能详细说明)
 - [企业微信机器人使用教程](#企业微信机器人使用教程)
 - [图片识别文件解析功能](#图片识别文件解析功能)
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a47df31b-12d0-495b-a37c-601a7185390e" alt="微信二维码" width="300"/>
+</p>
 
 ## 更新日志
 ## [V1.0.07-beta.1] - 2025-03-14
@@ -148,8 +155,14 @@
        <img src="png/img.png" alt="添加路径到环境变量" style="width: 30%;" />
        <img src="png/1703285345704.png" alt="环境变量设置完成" style="width: 30%;" />
    </div>
-# 扫码入交流群（备注来源）
-![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a47df31b-12d0-495b-a37c-601a7185390e" alt="微信二维码" width="300"/>
+</p>
+
 ## 语音配置教程
 
 ### 1. 获取 AIWIS-KnowAi 语音 API 密钥
