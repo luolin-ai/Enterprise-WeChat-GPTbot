@@ -168,7 +168,7 @@
 
 ### 1. 获取 AIWIS-KnowAi 语音 API 密钥
 
-- 访问 [AIWIS-KnowAi API](https://api.aiwis.cn/)。
+- 访问 [AIWIS-KnowAi API](https://nextflow.app/)。
 - 登录或注册账号。
 - 获取 `AIWIS_speech_KEY` 并在 `.env` 文件中添加以下内容：
 
@@ -216,7 +216,7 @@ TTS_MODEL=tts-1  # 或者 tts-1-hd
 
 ## 开始
 2. 配置，
-   打开 https://ai.aiwis.cn/ 网站，点击创建ai
+   打开 https://nextflow.app/ 网站，点击创建ai
    ![img_1.png](png/img_1.png)
    进入网站点击新建应用，点击生成key
    ![img_2.png](png/img_2.png)
