@@ -1,8 +1,8 @@
 
-# Enterprise-WeChat-GPTbot V1.0.08
+# Enterprise-WeChat-GPTbot- NextFlow-APP V1.0.08-beta.1
 
 基于企业微信最新发布的 4.1.33.6009 版本，支持外部群的微信机器人语音功能私聊，并支持 FASTgpt。
-- 企微版本，点击此处下载 [WeCom_4.1.22.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.33.6009.exe)
+- 企微版本，点击此处下载 [WeCom_4.1.33.6009.exe](https://dldir1.qq.com/wework/work_weixin/WeCom_4.1.33.6009.exe)
 
 ## 目录
 - [更新日志](#更新日志)
@@ -14,18 +14,47 @@
 - [功能详细说明](#功能详细说明)
 - [企业微信机器人使用教程](#企业微信机器人使用教程)
 - [图片识别文件解析功能](#图片识别文件解析功能)
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4dac94f7-c8d9-4045-8949-6a5abbf5defd" alt="微信二维码" width="300"/>
+</p>
+
 
 ## 更新日志
 
-## [v0.0.8] - 2025-10-28
-修复低版本登录
-更新4133版本
-新增图图识别上传大模型
+版本迭代4133版本
+修复低版本
+图片识别
+图知识库发送图
+
+
+## [V1.0.07-beta.1] - 2025-03-14
+
+# NextFlow-APP V1.0.07-beta.1 更新说明
+更新详情请参考：[更新说明]([https://github.com/luolin-ai/Enterprise-WeChat-GPTbot))  
+![image](https://github.com/user-attachments/assets/dec1f60d-34d2-45bd-a9c4-2a02fc616b4b)
+
+## 主要更新：
+- 修复无法发送签名图片
+- 修复返回为空的回复
+- 优化 [http://127.0.0.1:8001/docs](http://127.0.0.1:8001/docs) 文档
+- 修复部分 API 无法使用
+- 新增文件发送群组 API，也可私发文件
+- 兼容 [https://nextflow.app/](https://nextflow.app/) 新请求格式，可在 https://nextflow.app/ 中管理企业微信的消息对应用户昵称 ID
+![image](https://github.com/user-attachments/assets/e8c3cac3-7acf-4140-ab94-c4f54e12e88b)
+-- 修复回复两次问题
+
+
+- 优化广告小尾巴格式
+
 
 ## [v0.0.06] - 2024-10-30
 
 ### 新增功能
-修复原有回复2遍![img_6.png](img_6.png)
+修复原有回复2遍
 新增文件识别解析
 修复原有bug问题
 #### 新增功能
@@ -134,13 +163,19 @@
        <img src="png/img.png" alt="添加路径到环境变量" style="width: 30%;" />
        <img src="png/1703285345704.png" alt="环境变量设置完成" style="width: 30%;" />
    </div>
-# 扫码入交流群（备注来源）
-![75a12c30815b6c0608ad6ee6fa3db6f](https://github.com/luolin-ai/Enterprise-WeChat-GPTbot/assets/135555634/2a0e6fc9-0772-4a15-9e33-5e588ade3479)
+## 联系我们
+
+如需进一步交流和支持，欢迎扫描下方二维码添加微信进群：
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4dac94f7-c8d9-4045-8949-6a5abbf5defd" alt="微信二维码" width="300"/>
+</p>
+
 ## 语音配置教程
 
 ### 1. 获取 AIWIS-KnowAi 语音 API 密钥
 
-- 访问 [AIWIS-KnowAi API](https://api.aiwis.cn/)。
+- 访问 [AIWIS-KnowAi API](https://nextflow.app/)。
 - 登录或注册账号。
 - 获取 `AIWIS_speech_KEY` 并在 `.env` 文件中添加以下内容：
 
@@ -188,7 +223,7 @@ TTS_MODEL=tts-1  # 或者 tts-1-hd
 
 ## 开始
 2. 配置，
-   打开 https://ai.aiwis.cn/ 网站，点击创建ai
+   打开 https://nextflow.app/ 网站，点击创建ai
    ![img_1.png](png/img_1.png)
    进入网站点击新建应用，点击生成key
    ![img_2.png](png/img_2.png)
