@@ -1,4 +1,4 @@
 {
-  "default": ["@小林"],
-  "custom": ["自定义词1", "自定义词2"]
+  "default": ["@NextFlowAgents"],
+  "custom": ["@NextFlowAgents", "NextFlowAgents"]
 }
